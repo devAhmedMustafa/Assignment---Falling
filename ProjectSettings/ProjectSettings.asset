@@ -663,11 +663,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: a78027c6-27a5-4327-9990-4821c9fa53b4
+  cloudProjectId: af7e5959-8c4c-4d40-973c-26291f8079ea
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GameJam2024 - Falling from my mind
-  organizationId: am1804067
+  projectName: Assignment - Falling from my mind
+  organizationId: star-29a1ff7e-5dd8-42c6-8fa2-3590a2d1dcd3
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
